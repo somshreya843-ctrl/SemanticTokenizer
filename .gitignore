@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large datasets and generated files
+data/
+datasets/
+cache/
+embeddings/
+*.npy
+*.npz
+*.pt
+*.pth
+
+# macOS
+.DS_Store
+
+# Environment variables and secrets
+.env
+
+output/
+.vscode/

@@ -1,0 +1,8 @@
+torch
+transformers
+gliner
+pandas
+numpy
+matplotlib
+spacy
+tqdm
